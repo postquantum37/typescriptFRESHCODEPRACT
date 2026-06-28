@@ -46,6 +46,11 @@ typescript-welcome-task/
   для хобі та `<input type="number" id="experienceInput">` для років досвіду.
   Їхні значення зчитуються при натисканні на кнопку та передаються у функцію
   привітання.
+<img width="866" height="467" alt="image" src="https://github.com/user-attachments/assets/bac98754-f182-4392-b696-33a28b51b7ae" />
+<img width="836" height="548" alt="image" src="https://github.com/user-attachments/assets/dc9f9b60-3180-481a-81aa-e46a790a6e27" />
+<img width="1284" height="933" alt="image" src="https://github.com/user-attachments/assets/411a41b8-4b7f-468e-8dd8-ec440f5be13d" />
+<img width="1161" height="866" alt="image" src="https://github.com/user-attachments/assets/37ad5575-4f17-4294-9c08-f7e4428352da" />
+<img width="1324" height="814" alt="image" src="https://github.com/user-attachments/assets/f8f9e111-c942-4141-a646-77ddd499fd4b" />
 
 ## Приклад виводу
 
